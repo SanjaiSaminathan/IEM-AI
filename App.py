@@ -6,10 +6,10 @@ import cohere
 st.markdown("<h1 style='text-align: center;'>IEM AI</h1>", unsafe_allow_html=True)
 
 # Center the logo
-st.markdown("<div style='text-align: center;'><img src='https://github.com/SanjaiSaminathan/IEM-AI/blob/062cf74f7f29357febb25744323cdc2bc59d1435/logo.png' width='150'></div>", unsafe_allow_html=True)
+#st.markdown("<div style='text-align: center;'><img src='https://github.com/SanjaiSaminathan/IEM-AI/blob/062cf74f7f29357febb25744323cdc2bc59d1435/logo.png' width='150'></div>", unsafe_allow_html=True)
 # Add the logo at the top
 #st.set_page_config(page_title="IEM AI", layout="centered")
-#st.image("logo.png", width=150)  # Adjust `width` as needed
+st.image("logo.png", width=150)  # Adjust `width` as needed
 
 # Input box
 user_input = st.text_input("Enter the Question:")
