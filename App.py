@@ -3,6 +3,10 @@ import cohere
 # Title for the app
 st.title("IEM AI")
 
+# Add the logo at the top
+st.set_page_config(page_title="IEM AI", page_icon="🖥️", layout="centered")
+st.image("logo.png", width=150)  # Adjust `width` as needed
+
 # Input box
 user_input = st.text_input("Enter the Question:")
 
