@@ -4,7 +4,7 @@ import cohere
 st.title("IEM AI")
 
 # Add the logo at the top
-st.set_page_config(page_title="IEM AI", layout="centered")
+#st.set_page_config(page_title="IEM AI", layout="centered")
 st.image("logo.png", width=150)  # Adjust `width` as needed
 
 # Input box
