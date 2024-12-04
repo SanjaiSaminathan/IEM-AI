@@ -1,7 +1,7 @@
 import streamlit as st
 import cohere
 # Title for the app
-st.title("Chatbot")
+st.title("IEM AI")
 
 # Input box
 user_input = st.text_input("Enter the Question:")
