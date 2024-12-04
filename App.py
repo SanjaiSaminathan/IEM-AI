@@ -1,11 +1,15 @@
 import streamlit as st
 import cohere
 # Title for the app
-st.title("IEM AI")
+#st.title("IEM AI")
+# Center the title using Markdown and HTML
+st.markdown("<h1 style='text-align: center;'>IEM AI</h1>", unsafe_allow_html=True)
 
+# Center the logo
+st.markdown("<div style='text-align: center;'><img src='logo.png' width='150'></div>", unsafe_allow_html=True)
 # Add the logo at the top
 #st.set_page_config(page_title="IEM AI", layout="centered")
-st.image("logo.png", width=150)  # Adjust `width` as needed
+#st.image("logo.png", width=150)  # Adjust `width` as needed
 
 # Input box
 user_input = st.text_input("Enter the Question:")
