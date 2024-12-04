@@ -1,7 +1,7 @@
 import streamlit as st
 import cohere
 # Title for the app
-#st.title("IEM AI")
+st.title("IEM AI")
 
 # Add the logo at the top
 st.set_page_config(page_title="IEM AI", layout="centered")
