@@ -464,3 +464,23 @@ if st.button("Process"):
     Artboard 23
     ESOS
     Artboard 24
+
+
+
+
+    """
+    question = user_input
+    # Combine context and question
+    input_text = f"Context: {context}\n\nQuestion: {question}\nAnswer:"
+    
+    # Generate text
+    response = co.generate(
+        model="command-xlarge-nightly",
+        prompt=input_text,
+        max_tokens=100
+    )
+    
+    # Print the response
+    #print("Answer:", response.generations[0].text)
+    
+    st.success(response.generations[0].text)
