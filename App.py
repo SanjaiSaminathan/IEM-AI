@@ -565,10 +565,10 @@ A big thank you to IEM for the opportunity and support. This course has enriched
     response = co.generate(
         model="command-xlarge-nightly",
         prompt=input_text,
-        max_tokens=1000
+        max_tokens=100
     )
     
     # Print the response
-    #print("Answer:", response.generations[1].text)
+    #print("Answer:", response.generations[0].text)
     
-    st.success(response.generations[1].text)
+    st.success(response.generations[0].text)
