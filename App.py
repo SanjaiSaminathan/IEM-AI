@@ -563,10 +563,10 @@ A big thank you to IEM for the opportunity and support. This course has enriched
     
     # Generate text
     response = co.generate(
-        model="command-xlarge-nightly",
-        prompt=input_text,
-        max_tokens=100
-    )
+    model="command-xlarge",  # Use a valid model
+    prompt=input_text,
+    max_tokens=100
+)
     
     # Print the response
     #print("Answer:", response.generations[0].text)
