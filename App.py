@@ -562,7 +562,7 @@ A big thank you to IEM for the opportunity and support. This course has enriched
     input_text = f"Context: {context}\n\nQuestion: {question}\nAnswer:"
     
     # Generate text
-    response = co.generate(
+     response = co.generate(
         model="command-xlarge-nightly",
         prompt=input_text,
         max_tokens=100
