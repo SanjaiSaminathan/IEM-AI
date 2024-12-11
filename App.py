@@ -561,13 +561,7 @@ A big thank you to IEM for the opportunity and support. This course has enriched
     # Combine context and question
     input_text = f"Context: {context}\n\nQuestion: {question}\nAnswer:"
     
-    max_context_length = 4000  # Adjust based on your requirements
-if len(context) > max_context_length:
-    context = context[:max_context_length]
-
-input_text = f"Context: {context}\n\nQuestion: {question}\nAnswer:"
-
-try:
+   
     response = co.generate(
         model="command-xlarge",
         prompt=input_text,
