@@ -18,7 +18,7 @@ user_input = st.text_input("Enter the Question:")
 if st.button("Process"):
     
     # Set your API key
-    co = cohere.Client("aGEw4etYOyl29QgrQ3vpPcaw4U0XRK2FODsFWPon")
+    co = cohere.Client("vqTej7Mv9k4DZOUnzVrciquxeZail4uhkt1roip3")
 
     # Define context and question
     context = """
