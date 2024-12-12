@@ -563,7 +563,7 @@ A big thank you to IEM for the opportunity and support. This course has enriched
     
    
     response = co.generate(
-        model="command-xlarge",
+        model="c4ai-aya-expanse-32b",
         prompt=input_text,
         max_tokens=100
     )
