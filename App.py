@@ -555,7 +555,338 @@ A big thank you to Integrated Estate Management Ltd for providing this incredibl
 the Consistently Delivering Exceptional Service course with Hamilton Mercer, accredited by the CPD Standards Office. 🎉
 A big thank you to IEM for the opportunity and support. This course has enriched my understanding of customer service excellence, equating to 6 hours of CPD. I am looking forward to applying these skills in future endeavors! 🚀
 
-
+COMPANY BACKGROUND
+ Q: Provide a description of your company’s 
+history, culture and capability in relation to 
+Facilities Management.
+ In your answer include relevant facts and figures e.g. annual 
+revenues, growth in employee numbers, key customers, 
+sector experience, year established, ownership structure, 
+geographical coverage (UK and ROI?) etc.
+ A: At IEM, we are driven by a singular mission: to simplify 
+the complexities of estate management, which is centred 
+around taking away the daily pain of managing your 
+facilities, IEM is not just another service provider—we’re 
+your partners in building efficient and thriving estates.
+ We operate to 3 principles,
+ Our People come first.
+ Our Partners are precious.
+ We are the leaders on Building Compliance.
+ Founded in the early days of Covid 2020 by Alistair Scott 
+the sole owner of the business with years of Corporate 
+“Client Side” technical FM leadership, the team was 
+quickly formed from leading Facilities Management 
+(FM) business across the industry, all drawn by the 
+empowerment IEM provides, made up of technical 
+experts and leaders from across the FM industry, with a 
+specialism of supporting clients with multi-site estates 
+and a mindset of competency, clarity in support and the 
+mission to make FM and building managers succeed.
+ It’s about adaptability, over the first 3 years we supported 
+our first client with multi sites across the UK&I (circa 
+650) from a position of low compliance and control to a 
+fully compliant estate supported by efficient processes 
+and controls, an initial legacy that has led the confidence 
+across multiple clients for IEM to support their multi
+site estates and guide them on there journey to facilities 
+enabling their business delivery, 85% of our clients are 
+open from the outset that there compliance position 
+is low and they need support, asset data is lacking and 
+daily operations is reactive, IEM supports the clients on 
+the journey to turn the ship around to a complaint and 
+planned estate, though, reactive, planned, remedial and 
+project maintenance.
+ The positive culture across the IEM team and partners is 
+strong, this is demonstrated with us not losing a single 
+member of staff from day one, with continued growth 
+to a team of 50 employee’s, and partners continually 
+growing though word of mouth to work with IEM, this 
+is fundamentally down to our partner support program 
+(supporting SME’s), task clarity/volume and industry 
+leading payment terms.
+ Cox Automotive, NHS East Sussex, NHS ELFT, Eenergy, The 
+Knightsbridge, Chatham House, Andrew Sykes, Strabag, 
+Westminster Council, Bulgari Hotel, Stonegate Pubs and Vets 
+Now, we have concurrently expanded our partner network 
+deeply across the UK & Ireland, resulting in us fielding 
+2500+ partners, who cover all hard services and compliance 
+disciplines our revenue has increased by 100+% annually.
+ The recent financial result being,
+ 2023 £4.5M
+ 2024 £15M
+ The continued growth is due to our team, our industry 
+leading CAFM system “Facilio” and our simple operating 
+model, which is unique to the industry in that we are 
+the ONLY FM company who openly shouts about us 
+outsourcing the engineering delivery, which provides us 
+depth of delivery, we utilise our certified supply chain 
+Partners to ensure minimal travel, quick responses, and 
+specialists for the work in hand.
+ Accompanying this growth has been our ability to give 
+back, with us being the Primary sponsor for “Scotty’s 
+little Soldiers”, and the founding sponsor for the “IWFM 
+Veteran’s into FM”, along with supporting more localised 
+charities such as cancer survivors letter writing “From me 
+to You” and “Kind Hearts”.
+ Through our continued technical and leadership training 
+programs, held together in clear business intent to 
+support our clients on their journey, IEM have recently 
+been awarded the “Best FM Company to work for 2024”.
+ Professionally we are accredited by ISO 9001, 14001 & 
+45001, Safe Contractor and supported by being Neutral 
+Carbon Zone Platinum, as a living wage employer, we 
+are also on the journey to become B-Corp accredited, 
+to accompany these accreditations we are leading on 
+the building compliance front as the inaugural strategic 
+partnership with SFG20.
+ Q2 
+SERVICE DELIVERY: APPROACH
+ Q: Describe how you would approach 
+(including details on account management and 
+helpdesk) delivery of maintenance services 
+across the PortmanDentex estate including the 
+organisational structure you would deploy? 
+A: At IEM, we understand that delivering high-quality, 
+customer-focused maintenance services across the 
+Portman Dentex estate requires not only effective 
+processes but also a dedicated and well-structured 
+team. Our approach combines expertise from multiple 
+3
+PPM Team
+ departments within our organisation to ensure seamless 
+service delivery, clear communication, and a focus on 
+continuous improvement. 
+To ensure that maintenance services are delivered 
+efficiently and effectively across the Portman Dentex 
+estate, we would deploy a tailored team structure that 
+draws from our diverse departments. This structure 
+enables us to provide flexibility, accountability, and 
+expertise at every stage.
+ Quotations Team
+ Our Quotations team is responsible for vetting and 
+reviewing every quote we receive. They ensure that the 
+pricing is fair, transparent, and competitive, and that all 
+necessary information is included for Portman Dentex to 
+make informed decisions. Our team will work closely with 
+Portman Dentex to ensure that all quotations are accurate 
+and aligned with your budget and expectations.
+ Projects Team
+ For larger projects or specific tasks requiring detailed 
+oversight our Projects team, which includes project 
+managers and administrators will provide dedicated 
+support. They will ensure that project delivery is on track, 
+within scope, and on budget. They will also work closely 
+with our Helpdesk and PPM teams to ensure smooth 
+coordination and execution.
+ Finance and Accounts Team
+ Our Accounts team will be available to support all financial 
+aspects of the service, including invoice queries, payment 
+tracking, and any financial reporting required by Portman 
+Dentex. They will ensure transparency and accuracy in 
+all financial dealings and provide timely support for any 
+queries related to billing.
+ Supply Chain Team
+ Our Supply Chain team manages the onboarding and 
+performance review of our suppliers. They ensure that we 
+only work with trusted and reliable partners and conduct 
+regular reviews to maintain high standards. They are 
+also responsible for managing training for supply chain 
+partners to ensure consistency in service delivery.
+ Helpdesk Team
+ We understand that communication is key. Our Helpdesk 
+team will be dedicated to Portman Dentex and work 
+specifically on your account. This means every time 
+you contact us, you will speak with someone who fully 
+understands the specifics of your account, current tasks, 
+and any ongoing issues. Our clients love this personalised 
+service, and it ensures efficiency in resolving queries and 
+tasks. Depending on the size and needs of your estate, we 
+can assign the appropriate number of helpdesk staff to 
+meet the demand.
+ Our PPM team will be responsible for scheduling all 
+planned preventative maintenance activities, ensuring 
+that these are carried out on time and in line with the 
+agreed schedules. This proactive approach helps to 
+minimise downtime and avoid unexpected breakdowns.
+ Account Management Team
+ The Account Management team will oversee the overall 
+service delivery, ensuring that all departments are 
+working together efficiently and that Portman Dentex’s 
+needs are met. The team will track performance, monitor 
+KPIs, and handle reporting to ensure accountability and 
+that high standards are maintained.
+ Team Deployment During Mobilisation
+ When starting the partnership with Portman Dentex, we 
+will deploy a mobilisation team consisting of members 
+from each relevant department. This team will support 
+the initial setup, ensuring that all systems, processes, 
+and resources are aligned to meet your needs. The 
+mobilisation team will include representatives from:
+ Helpdesk: To ensure smooth onboarding of helpdesk 
+staff and ensure that the account is fully understood.
+ Projects: To assist with any specific projects that need 
+immediate attention.
+ PPM: To set up and schedule initial maintenance 
+activities.
+ Account Management: To manage the high-level 
+coordination and ensure that all departments are 
+working together efficiently.
+ We are very flexible in how we work with you. For 
+example, with IVC, we have a weekly call to ensure 
+ongoing communication and support. For clients like 
+Eenergy, we have a monthly account management call, 
+tailored to their needs. We can work with Portman 
+Dentex to determine the frequency and structure of these 
+meetings to ensure we’re aligned with your expectations.
+ Ongoing Account Management and Support
+ Once mobilisation is complete, Portman Dentex will 
+have a dedicated account manager who will be your 
+primary point of contact. This person will oversee the 
+service, coordinate between teams, and ensure that 
+all feedback, issues, and requirements are addressed 
+promptly. Our account management process is built 
+around transparency, communication, and accountability, 
+ensuring that we stay responsive and adapt to any 
+changes or needs as they arise
+ Additionally, our Helpdesk team will provide ongoing 
+support tailored to your account. They will be familiar 
+with the nuances of Portman Dentex’s requirements, 
+4
+ ensuring consistent, personalised service delivery
+By combining the expertise of multiple departments—
+ Helpdesk, Quotations, Projects, Finance, Supply Chain, and 
+Account Management—we create a flexible, responsive, 
+and accountable service structure that ensures high-quality 
+service delivery across Portman Dentex’s estate. Our focus 
+on building strong relationships and maintaining open 
+communication allows us to deliver a customer-focused 
+service that is always aligned with your needs.
+ Q3 
+SERVICE DELIVERY: SYSTEMS
+ Q: Describe all the major systems you 
+propose to use, including your CAFM systems 
+and supporting technology. In your answer 
+include data security measures to protect 
+PortmanDentex data.
+ A: We propose the use of Facilio as our core CAFM system 
+to support Portman Dentex’s needs. This advanced system 
+is fully customisable and allows us to create and adjust 
+modules using an intuitive flowchart-based design. This 
+f
+ lexibility ensures that the system can be tailored to suit 
+your preferences and operational workflows, providing 
+a seamless fit for your practices. Facilio is user-friendly, 
+making it easy for staff across all levels to access and utilise, 
+you can access the portal through a website or via a client 
+portal app, making it easy to use whilst on the move. 
+It comprehensively covers FM requirements, including 
+preventive maintenance schedules, all raised work orders, 
+document management, all communications and more.
+ The system’s real-time capabilities enhance decision
+making and resource allocation, setting a new standard 
+for accountability and efficiency in contract delivery. In 
+addition to Facilio, our 24-hour help desk is a cornerstone 
+of our service delivery. This around-the-clock support 
+ensures immediate assistance for emergency tasks, 
+minimising disruptions to daily activities and maintaining 
+operational continuity. The help desk is seamlessly 
+integrated with the system, providing a cohesive and 
+responsive service experience.
+ Additionally, optional modules, such as energy usage 
+monitoring can be integrated if needed, offering scalability 
+to meet your evolving needs.
+ Facilio provides real-time data to all key stakeholders, 
+ensuring transparency and enabling informed decision
+making. The system aligns with IEM’s core purpose of 
+simplifying the complexities of FM, making it an invaluable 
+tool for managing your sites efficiently. Facilio streamlines 
+operations, ensuring your practices can focus on 
+delivering exceptional patient care, leaving the FM to us, 
+whilst being kept well informed of progress.
+ In addition to Facilio, we utilise Monday.com for internal 
+project management. While this platform is primarily used 
+for planning and collaboration within our team, there may be 
+instances where Portman Dentex stakeholders see updates 
+managed through this system. Monday.com offers robust 
+functionality for tracking progress, ensuring transparency, 
+and enhancing communication on collaborative projects
+ At IEM, data security is a top priority. Facilio is secured 
+with two-factor authentication (2FA) and single sign 
+on; providing additional layers of protection against 
+unauthorised access. The platform undergoes regular 
+updates and testing to maintain its security standards. 
+For Monday.com, we utilise an enterprise-level license 
+that incorporates advanced security features, including 
+encrypted data storage and role-based access controls, 
+ensuring your information always remains protected.
+ Beyond these measures, we implement comprehensive 
+data security protocols, including GDPR-compliant data 
+storage, regular penetration testing to identify and 
+mitigate vulnerabilities, and ongoing employee training in 
+cybersecurity best practices. These measures ensure that 
+all systems we use are resilient and secure, safeguarding 
+Portman Dentex’s data.
+ By leveraging Facilio and Monday.com, we offer a 
+sophisticated, secure, and flexible approach to Facilities 
+Management. Together, these systems will streamline 
+operations, ensure compliance, and provide the 
+transparency and efficiency necessary.
+ Q4 
+SERVICE DELIVERY: 
+DELIVERY MODEL
+ Q: Referring to the Scope of Works in Section 
+3.2 of the RFP document, confirm which of 
+these categories you would self deliver, which 
+sub-categories you would sub-contract and 
+who you would sub-contract to. Provide further 
+narrative of your preferred approach including 
+any diagrams and supporting rationale if 
+appropriate. Include in your response what 
+measures you take to prevent your sub
+contractors further sub-contracting this work.
+ A: At Integrated Estate Management (IEM), we do 
+not self-deliver services but instead operate through 
+a network of carefully selected regional partners. This 
+model ensures that we provide the best coverage and 
+service quality within each geographic area, leveraging 
+the expertise of locally based companies.
+ For the categories and sub-categories within the Scope of 
+Works, we would subcontract to these trusted partners. 
+5
+These partners have been rigorously vetted to meet our 
+stringent standards for delivery, compliance, and customer 
+satisfaction. Each partner is chosen for their proven track 
+record and capability to deliver the required services to the 
+highest standards within their specific region.
+ Our approach offers several key advantages:
+ Local Expertise: Regional partners have deep 
+knowledge of their respective areas, enabling faster 
+response times and better familiarity with local 
+regulations and conditions.
+ Quality Assurance: We maintain robust oversight 
+through regular performance reviews, detailed 
+Service Level Agreements (SLAs), and continuous 
+communication to ensure consistent service delivery 
+across all regions.
+ Scalability and Coverage: This model enables us to 
+provide seamless nationwide coverage, accommodating 
+both routine and specialised requirements without the 
+limitations of a centralised delivery model.
+ To prevent subcontractors from further subcontracting 
+the work, we implement the following measures:
+ Contractual Provisions: Our agreements 
+with subcontractors explicitly prohibit further 
+subcontracting without prior written consent from IEM.
+ Compliance Monitoring: We conduct regular audits 
+and compliance checks to ensure that all work is 
+performed directly by our contracted partners.
+ Clear Communication and Reporting: Partners are 
+required to provide regular updates on workforce 
+allocation and service delivery to ensure alignment 
+with our contractual expectations.
+ Our approach ensures that clients receive reliable, high
+quality service while benefiting from the flexibility and 
+efficiency of our partnership model.
     """
     question = user_input
     # Combine context and question
