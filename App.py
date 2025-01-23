@@ -887,6 +887,1784 @@ with our contractual expectations.
  Our approach ensures that clients receive reliable, high
 quality service while benefiting from the flexibility and 
 efficiency of our partnership model.
+
+SERVICE DELIVERY:  
+COMPLIANCE
+ Q: Describe your approach to the management 
+of statutory compliance, specifically how 
+you would manage this for PortmanDentex, 
+if successful. Within your response, provide 
+examples of how you approach statutory PPMs 
+and how these are identified. 
+A: To ensure a smooth transition and effective compliance 
+management across the estate, IEM would require 
+comprehensive asset registers and the findings from the 
+most recent audits to establish upcoming compliance 
+dates. This would include lifecycle information where 
+available. Should these records be incomplete or 
+unavailable, we would collaborate with Portman Dentex 
+to propose an asset verification survey across the estate 
+to gather the necessary data.
+ Using this information, IEM would review the asset details 
+and develop a tailored PPM schedule based on SFG20 
+standards and/or manufacturer recommendations. Our 
+CAFM system, Facilio, offers an advanced scheduling 
+mechanism that generates an SLA window ahead of each 
+compliance date. This window is incorporated into task 
+work orders, allowing the service partner to attend within 
+a specified timeframe while also accounting for site access 
+arrangements.
+ Facilio’s dashboards highlight tasks at risk of non
+compliance—whether due to a delay in ETA confirmation 
+or proximity to the SLA end date. These risks are actively 
+managed by our compliance team, ensuring timely 
+delivery. Completed tasks are not marked as such until 
+all associated documentation has been reviewed and 
+approved.
+ We continuously monitor supply chain performance, 
+with Facilio’s algorithm scoring service partners on their 
+delivery standards. These scores directly impact future 
+work allocations and form a key part of supply chain 
+performance reviews.
+ To further enhance risk management, we recommend 
+establishing a Risk Management Steering Group. This 
+group would focus on tracking high-risk remedial works, 
+compliance issues, and the development of a forward 
+maintenance register. Regular meetings would address 
+estate strategies, budgets, and current compliance 
+challenges, including any backlog of works.
+ One of our current clients lacked a comprehensive 
+compliance or asset data set. We worked closely with 
+them to compile this information while implementing 
+a bespoke maintenance regime across their estate. 
+Our involvement included organising Health and Safety 
+Steering Group meetings, developing high-risk registers, 
+and agreeing on weekly actions to review risks and 
+budgets.
+ Additionally, we prioritised high-risk buildings and 
+unknown assets by tailoring a PPM schedule to address 
+these areas as a priority. This proactive approach has 
+helped them achieve compliance while building a robust 
+strategy for future maintenance.
+ 6
+Q6 
+Q7 
+SERVICE DELIVERY:  
+QUALITY ASSURANCE
+ Q: Describe your approach to quality assurance 
+across all services. 
+A: At IEM, quality assurance is more than just a process—
+ it is embedded in everything we do, from the way we 
+collaborate with clients to how we train our teams and 
+select our partners. Our approach is rooted in adaptability, 
+personalisation, and a shared commitment to achieving 
+excellence.
+ We provide clients with extensive analytics through 
+bespoke dashboards, offering real-time insights and 
+detailed reports. This allows us to monitor trends, identify 
+potential risks, and implement proactive solutions. 
+By leveraging these tools, we ensure that issues are 
+addressed before they arise, keeping operations seamless 
+and efficient. For existing clients, we have developed 
+tailored risk management documents, identifying all FM
+related risks to support their ability to manage challenges 
+effectively, further reinforcing our commitment to quality.
+ Our dedication to excellence extends to our team, 
+who have recently completed CPD-certified in-person 
+customer service training sessions. This investment 
+ensures they are equipped to deliver an outstanding, 
+client-focused experience. Our efforts have not gone 
+unnoticed—we were recently awarded ‘Best Company 
+to Work For’ at the FM and Property Anticipate Awards, 
+reflecting the strength of our team and the quality we 
+bring to our clients.
+ At IEM, collaboration is key. We do not see ourselves as 
+just a service provider but as a partner. Our personalised 
+approach allows us to work closely with clients to align on 
+goals, overcome challenges, and achieve success together. 
+This is not your typical FM relationship—it is a partnership 
+driven by shared goals and a desire for greatness.
+ To uphold our high standards, we carefully vet all 
+partners. Each must have an SSIP accreditation, and we 
+strongly recommend SafeContractor status, ensuring that 
+everyone working on your sites is qualified and aligned 
+with our rigorous quality requirements.
+ From analytics and risk management to collaboration and 
+partner integrity, we ensure quality at every level. Our 
+size and structure enable us to provide a highly tailored 
+service that larger providers simply cannot match. This 
+dedication to adaptability, innovation, and collaboration is 
+what sets us apart and ensures exceptional outcomes for 
+our clients.
+ SERVICE DELIVERY: 
+CUSTOMER SATISFACTION
+ Q: How do you ensure customer satisfaction 
+and what is the process for signing off works 
+after they have been completed? Do you 
+ask the question ‘Are you satisfied with the 
+works? What role do you envisage the Practice 
+Managers playing in this regard?
+ A: We prioritise customer satisfaction through a 
+structured and transparent process. Upon the completion 
+of works the Practice Manager will be requested to sign 
+off the engineers works via the Facilio engineer app 
+confirming they are happy with the works carried out, 
+these details are then added to the portal and visible for 
+all that have access to that specific site (such as Practice 
+Manager, Area Managers, FM Managers, IEM and our 
+Supply Chain Partner).
+ Our usual model, which we find works brilliantly, is to have 
+dedicated Helpdesk members for each client, this means 
+that your Sites and Teams are always talking to the same 
+people, giving them to chance to build great relationships 
+and really work together. This also gives our Helpdesk 
+team the opportunity to really learn the ins and outs of 
+your Practices and give the best service possible. With our 
+larger clients such as IVC where there are many sites, to 
+make the experience even more personalised, we split the 
+team per region, so each specific region has a dedicated 
+contact they speak to. Our Helpdesk team are then able 
+to work with the Sites/regional FM managers etc. and 
+learn how they prefer to work, some like to have a regular 
+teams call to catch ups, others prefer contact via the note 
+of the portal only – By working this way gives us flexibility 
+to provide a much more personal service to you.
+ Following the task completion we then have a customer 
+feedback module of the system where we can collate 
+feedback from Practice Managers for their completed 
+works, this is a straightforward process where we ask them 
+to choose between a happy, neutral or unhappy face, 
+with the chance to give text feedback and answer a few 
+questions on the service they received, the system then 
+reports on this data to ensure all relevant stakeholders have 
+visibility of our performance. Our Account Management 
+Team, along with our Business Excellence department also 
+review this data on a regular basis to ensure continuously 
+improvement within our company.
+ Innovation and Continuous Improvement for us is at the 
+heart of our business ethos, driving us to consistently 
+enhance our services, exceed client expectations, and 
+adapt to ever-changing industry demands by listening 
+to feedback, embracing new ideas, and implementing 
+effective solutions that deliver measurable value.
+ 7
+Q8 
+Q9 
+SERVICE DELIVERY: 
+REMEDIALS
+ Q: Describe your approach to dealing with 
+Remedial Works for PortmanDentex. Consider 
+in your response how you could bundle works 
+to maximise risk mitigation, efficiency and 
+cost effectiveness and process for escalations 
+to expedite work if required. How will you 
+demonstrate cost effectiveness versus the market? 
+A: IEM adopts a comprehensive and cost-effective 
+approach to remedial works. We begin with a thorough 
+assessment to identify the required actions and 
+opportunities to bundle remedials wherever possible. By 
+coordinating works efficiently, we minimise disruption, 
+reduce engineer attendance fees, and lower overall 
+remedial costs, ensuring the best value for our clients.
+ This strategy has been successfully implemented with 
+partners such as NHS West Suffolk Trust and Arnold 
+Clark. For example, within our PPM department, we 
+have a dedicated remedial team that ensures all planned 
+preventative maintenance (PPM) tasks are completed 
+end-to-end, with full certification of compliance.
+ By adopting this approach, PortmanDentex will benefit 
+from a streamlined and compliant estate management 
+process. Our CAFM system, Facilio, provides real-time 
+visibility, allowing the client to monitor compliance and 
+progress on-site at any time.
+ SPECIALIST DENTAL SERVICES
+ Q: Specialist Dental Services (as defined in 
+3.2.3 of the RFP document) are out of scope 
+of this RFP. However, PortmanDentex would 
+like to understand the potential operational 
+and commercial viability of the Service 
+Provider providing Helpdesk services as well as 
+overseeing the management, reactive call outs, 
+PPMs and other services provided by specialist 
+dental suppliers (e.g. Henry Schein, DD Group, 
+Hague Dental etc.) 
+Please describe how this could work, what your suggested 
+commercial model would be and, if you have experience in 
+the dental sector, is this something that you already do?
+ A: At IEM, we are flexible in managing your existing 
+contractors, and we would be happy to onboard your 
+current specialist dental suppliers to work alongside us 
+and our current Supply Chain. Our recommendation is 
+to centralise all information in Facilio, which allows for 
+seamless task tracking, reporting, and transparency. 
+This approach ensures that all contractor activity is 
+consolidated, making it easier to monitor performance, 
+identify trends, and maintain service consistency.
+ We would recommend adding an agreed management 
+mark-up percentage to each task undertaken by your 
+specialist contractors. This is a simple and transparent way 
+to manage costs while ensuring effective oversight and 
+coordination.
+ Once onboarded, all contractors would be subject to 
+our performance monitoring protocols. Using Facilio, 
+we would track task completion times, compliance with 
+SLAs, and overall service quality. Regular reporting would 
+be provided to you, ensuring full visibility of contractor 
+performance and identifying areas for improvement 
+where necessary.
+ Although we do not currently manage specialist dental 
+equipment, we have significant experience working with 
+clients in related sectors, such as veterinary practices. 
+In these settings, we frequently support with specialist 
+equipment, including compliance with x-ray and Radiation 
+Protection Adviser (RPA) requirements. Our understanding 
+of high-compliance environments ensures we can quickly 
+adapt to the needs of the dental sector and bring valuable 
+insights to managing similar specialist equipment.
+ We are confident in our ability to seamlessly integrate 
+your existing contractors into our processes, providing 
+a centralised, efficient, and transparent solution that 
+enhances oversight and supports your operational goals.
+ 8
+Q10
+ 3. Sealing and Welding for Infection Control:
+ CLINICAL / MEDICAL  
+ENVIRONMENT EXPERIENCE
+ Q: Describe your capability and experience in 
+working in regulated clinical environments such 
+as dental surgeries and provide examples of 
+work you have completed in such environments. 
+Give examples of the regulators and regulations 
+you may need to consider undertaking these 
+works. At PortmanDentex there will be clinical 
+compliance remedial activity such as lead lining, 
+sealing/welding of floors, sealing of worktops 
+etc. that we have historically used specialist 
+dental contractors to carry out. Do you have 
+experience in carrying out these works in a 
+regulated medical / clinical environment? 
+What would your approach be to these clinical 
+compliance remedial works?
+ A: At IEM, we have experience working in regulated 
+clinical environments, including veterinary practices, 
+which share many operational and compliance similarities 
+with dental surgeries. These include stringent regulations 
+around radiation protection, infection control, and clinical 
+compliance. Our work in these settings has equipped us 
+with the skills, knowledge, and partnerships to confidently 
+handle dental surgery environments with precision and 
+compliance.
+ Specific Experience and Expertise
+ 1. Radiation Compliance and X-Ray Equipment:
+ We collaborate with a highly skilled team that 
+specialises in x-ray electrical works nationwide.
+ They have deep expertise in working with Radiation 
+Protection Advisers (RPAs) such as Stephen and Green 
+Associates, ensuring compliance with IRR17 (Ionising 
+Radiations Regulations 2017).
+ An example includes the installation of systems 
+where x-ray warning lights are interlocked to prevent 
+the machine’s operation in case of light failure, a 
+requirement often overlooked by other contractors.
+ 2. Lead Lining and Radiation Protection:
+ Our teams are experienced in installing lead-lined 
+solutions, including lead-lined blinds, doors, and wall 
+boarding.
+ In a recent project, we worked with a veterinary 
+client to ensure compliance with radiation shielding 
+standards, delivering a solution that included lead
+lined partition walls and doorways, certified to meet 
+regulatory requirements.
+ Infection control is a critical aspect of clinical 
+environments, and we have a proven track record in 
+sealing and welding works.
+ For example, we’ve successfully sealed floors 
+and worktops in high-risk clinical areas to ensure 
+compliance with infection prevention regulations, 
+using materials approved for medical settings.
+ We ensure all works align with the relevant 
+regulations and guidelines, including:
+ Health and Safety Executive (HSE) guidelines for 
+clinical compliance.
+ Control of Substances Hazardous to Health (COSHH) 
+for managing materials used in clinical spaces.
+ HTM (Health Technical Memoranda) for flooring, 
+worktops, and infection control.
+ IRR17 and associated guidance for radiation 
+protection.
+ Approach to Clinical Compliance  
+Remedial Works
+ 1. Detailed Assessment and Planning:
+ Conduct a thorough site survey and consult with 
+relevant stakeholders, including RPAs, infection 
+control specialists, and facility managers.
+ Provide a detailed risk assessment and method 
+statement (RAMS) tailored to the specific 
+requirements of the clinical environment.
+ 2. Use of Specialist Contractors and Materials:
+ Engage trusted specialists with experience in 
+regulated environments, ensuring all works are 
+completed to the highest standard.
+ Use materials certified for medical and clinical use, 
+such as antimicrobial surfaces for sealing worktops 
+and flooring.
+ 3. Compliance-Driven Execution:
+ Carry out works in compliance with HTM and 
+infection control standards, ensuring minimal 
+disruption to clinical operations.
+ Maintain robust communication with the client 
+throughout, providing progress updates and 
+compliance documentation as needed.
+ 4. Post-Completion Validation:
+ Conduct a full inspection and testing to confirm 
+compliance with relevant regulations.
+ Provide clients with a compliance pack, including 
+certifications, photographs, and reports for their 
+records.
+ 9
+Examples of Relevant Work
+ sites. With this system in place, any queries or issues are 
+Veterinary Practice Refurbishments: Delivered radiation 
+protection upgrades, including lead lining and x-ray 
+warning systems, ensuring compliance with IRR17.
+ Clinical Fit-Outs: Completed floor and worktop sealing 
+projects in regulated clinical spaces, achieving infection 
+control compliance.
+ At IEM, we bring a proven track record of success in 
+regulated environments and a proactive, compliance-first 
+approach. Our team is well-equipped to meet Portman 
+Dentex’s requirements for clinical compliance remedial 
+works, ensuring your facilities remain operational, 
+compliant, and ready to serve patients effectively.
+ Q11
+ CUSTOMER SERVICE
+ Q: With relevant examples, provide a description 
+of how would you organise a high quality, 
+customer focused service for PortmanDentex. 
+Please describe your approach to: – Customer Helpdesk – Compliments and Complaints – Customer Service training for your staff– Monitoring and reporting on levels of customer 
+satisfaction – Communication– How you would ensure the customer (particularly 
+in practice) is kept informed  
+and engaged– Ensuring appropriate conduct of your 
+representatives whilst on site
+ A: At IEM, we are committed to delivering a high-quality, 
+customer-focused service that not only meets but exceeds 
+Portman Dentex’s needs. We understand that exceptional 
+service is the foundation of a successful partnership, and 
+we are dedicated to providing a seamless and responsive 
+service that supports the operational efficiency and 
+satisfaction of your practices.
+ Efficient and Responsive Customer Helpdesk
+ We recognise the importance of having an efficient and 
+responsive customer helpdesk. Our helpdesk operates 
+24/7/365, ensuring that Portman Dentex’s needs are met 
+promptly, no matter the time of day. The Facilio system is 
+at the heart of our helpdesk operations, enabling real
+t
+ ime monitoring and swift issue resolution; due to the 
+automations in the system such as chasing overdue tasks 
+with our Partners and assigning works (after they have 
+been fully vetted), means it frees up our team’s time to 
+focus on what really matters, communicating with the 
+captured immediately, allowing us to address them without 
+delay. This ensures the smooth operation of your practices 
+and enables us to keep things running efficiently, reducing 
+downtime and preventing unnecessary disruptions.
+ Proactive Management of Compliments and Complaints 
+Our approach to managing compliments and complaints 
+is both proactive and systematic. We have a dedicated 
+team responsible for handling feedback, ensuring that 
+all compliments are acknowledged and shared with the 
+relevant teams to reinforce positive behaviour. We take 
+complaints seriously—each one is logged, thoroughly 
+investigated, and resolved promptly. Root cause analysis 
+is conducted to identify the underlying causes and ensure 
+that similar issues do not recur. We track all complaints 
+and escalations through our Account Management team, 
+who provide regular updates to the complainant and 
+review any escalations during our weekly calls with IVC, 
+although these instances are minimal.
+ Training and Development of Our Team
+ At IEM, we believe in the value of our people, which 
+is why we invest in their continuous professional 
+development. All of our staff undergo comprehensive 
+customer service training during their initial training and 
+probation period before they are fully integrated into their 
+respective accounts. This training covers essential skills 
+such as communication, empathy, problem-solving, and 
+the ins and outs of Facilities Management.
+ We are proud of our commitment to our team’s 
+progression, which has been recognised with our recent 
+award for Best Company to Work For at the FM and 
+Property Anticipate Awards. Additionally, our entire IEM 
+team have recently completed CPD-certified customer 
+service training, including modules on delivering 
+excellence and dealing with challenging situations.
+ Our team’s development continues with site visits to 
+their relevant accounts and support with their Personal 
+Development Plans. This ensures that they remain adept 
+at providing exceptional service and are continuously 
+improving to meet the needs of Portman Dentex.
+ Monitoring and Reporting Customer Satisfaction 
+We actively monitor and report on levels of customer 
+satisfaction through multiple methods, such as regular 
+surveys, feedback forms, and direct interviews. The 
+feedback gathered is carefully analysed to identify trends 
+and areas for improvement. This data is used to inform 
+future actions, ensuring that service delivery is consistently 
+enhanced. We will provide detailed reports to Portman 
+Dentex, highlighting our performance and any corrective 
+actions we have taken to improve service quality.
+ In addition to our regular surveys, our Facilio system 
+includes a feedback module, where sites can provide 
+feedback on each completed task. This allows Portman 
+10
+Dentex to review the service provided and track performance 
+Q12
+ on an ongoing basis, ensuring continuous improvement.
+ Communication and Customer Engagement
+ Effective communication is central to our service delivery. 
+We ensure that communication remains clear and 
+consistent through multiple channels, including emails, 
+phone calls, and in-person meetings. Our helpdesk team 
+is organised by specific clients and even regions for larger 
+clients like Portman Dentex, ensuring a personalised 
+service for every site.
+ To keep Portman Dentex engaged, we implement a 
+structured communication plan that includes scheduled 
+meetings, progress reports, and feedback sessions. Your 
+dedicated Helpdesk member(s) will be the first point 
+of contact for day to day queries etc, you then have 
+a dedicated account manager who will act as a single 
+point of contact working with your FM team, ensuring 
+streamlined and effective communication. Additionally, 
+our CAFM system provides real-time updates on service 
+status, so you are always informed and up-to-date on any 
+ongoing activities or potential issues.
+ Ensuring Appropriate Conduct On-Site
+ All of our representatives are trained to uphold the 
+highest standards of professionalism and conduct while 
+on site. This includes adherence to Portman Dentex’s 
+policies and procedures, maintaining a respectful and 
+courteous demeanour, and ensuring minimal disruption 
+to your operations. We conduct regular audits and have 
+feedback mechanisms in place to monitor and reinforce 
+appropriate behaviour. All of our Supply Chain Partners 
+have to go through an in-depth onboarding process, to 
+ensure their values align with ours and that they are the 
+right teams for the tasks in hand, that we can trust to 
+support us.
+ Outcomes and Benefits
+ By organising a high-quality, customer-focused service, 
+Portman Dentex will benefit from enhanced operational 
+efficiency, increased customer satisfaction, and a 
+stronger reputation for delivering exceptional service. 
+Our approach ensures that your needs are met promptly, 
+feedback is handled effectively, and communication 
+remains clear and consistent. Ultimately, this will support 
+the success and growth of your practices, creating an 
+environment where patients and staff can thrive.
+ REFERENCES
+ Q: Please provide two customer references that 
+are relevant to services requested in this RFP 
+and that are currently being provided by your 
+company. 
+Please provide the name, job title, email address and phone 
+numbers of the referees as well as a full description of the 
+services that you are providing to these customers. Please 
+ensure that references provide an comparable level of service 
+to what PotmanDentex are looking for. 
+Anthony Hind
+ 07816 202692
+ antony.hind@ivcevidensia.com
+ David Stevens
+ 07490730355
+ david.stevens18@nhs.net
+ 11
+Q13
+ REPORTING / MANAGEMENT 
+INFORMATION
+ Q: What Management Information can you 
+provide to PortmanDentex? 
+Please provide examples of reports and management 
+information you provide to your existing clients. Include in 
+your answer considerations regarding monitoring of trends 
+such as repeated call outs to the same asset and preventative 
+actions to stop this to reoccurring. 
+What financial and helpdesk statistics would you recommend 
+we monitor and report on?
+ A: At IEM, we take great pride in offering comprehensive 
+management information to support Portman Dentex’s 
+operational goals, improve efficiency, and ensure 
+informed decision-making. We understand that timely, 
+actionable insights are key to driving performance, and we 
+are committed to providing you with the data you need 
+to optimise your operations, reduce costs, and improve 
+service delivery. Our system allows us to manage the 
+reporting with complete flexibility, where we can add/
+ remove particular reporting based on the user level and 
+what you would like to see.
+ Key Management Information Reports
+ 1. Operational Task Overview
+ We will provide a detailed breakdown of outstanding tasks 
+by site, area, building, or region, ensuring visibility into the 
+entire estate. This includes tracking tasks that are awaiting 
+IEM vetting, require additional information, or are split 
+by the stage of completion such as awaiting scheduling, 
+scheduled awaiting attendance, or complete. We will also 
+monitor tasks by discipline, ensuring the right teams are 
+allocated to the appropriate work.
+ Total in SLA / Out of SLA: Visual reporting such as pie 
+charts will provide clarity on the percentage of tasks 
+meeting Service Level Agreements (SLAs). This will allow 
+Portman Dentex to track the efficiency of reactive work, 
+quotes, and PPM.
+ 2. Quotes Tracking
+ A comprehensive overview of all outstanding quotes, 
+including those awaiting submission, review, or client 
+approval, will be provided. We can break down these 
+quotes per discipline, region etc, ensuring transparency 
+and enabling you to stay on top of pending quotes. 
+Additionally, tracking the average task acceptance time 
+and attendance and completion times will give you 
+real-time visibility into task performance and allow for 
+improvements where necessary.
+ First-Time Fix Rate: We can also track the first-time fix 
+percentage to assess how often we are able to resolve 
+issues on the first visit, reducing repeat visits and 
+improving operational efficiency.
+ 3. Preventative Maintenance (PPM) Overview
+ To help prevent recurring issues, we will provide a detailed 
+breakdown of outstanding PPMs, including the status of 
+tasks such as awaiting scheduling, scheduled awaiting 
+attendance, and tasks requiring another visit. By tracking 
+SLA compliance and categorising tasks by discipline, 
+we can ensure timely and effective maintenance. This 
+proactive approach will help reduce repeated call-outs to 
+the same assets, preventing failures and ensuring long
+term asset reliability.
+ Monitoring Trends and Preventing Recurring Issues 
+One of the most significant aspects of our management 
+information reporting is the ability to track trends 
+in repeated call-outs to the same assets. By closely 
+monitoring these trends, we can identify potential 
+underlying issues, whether they are due to poor 
+asset condition, incorrect installation, or insufficient 
+maintenance. Our proactive approach enables us to 
+implement preventative actions to address these issues 
+before they escalate, such as adjusting maintenance 
+schedules, recommending upgrades, or providing training 
+to ensure staff handle equipment correctly.
+ We also recommend monitoring warranty percentages 
+and recall rates for assets, which help ensure that assets 
+under warranty are operating as expected and that any 
+product recalls are managed efficiently.
+ Financial and Helpdesk Statistics
+ In addition to operational and PPM reporting, we can also 
+report on financial statistics to improve service delivery 
+and cost management:
+ Total Spend per Month: Split into quotes, reactive 
+maintenance, and PPM, providing insight into cost 
+distribution and opportunities for savings.
+ Accrued Costs: Split into completed and not yet 
+completed tasks to provide visibility into outstanding 
+f
+ inancial obligations.
+ Helpdesk Metrics: Track response times, resolution times, 
+and task acceptance rates to measure the efficiency of 
+the helpdesk in addressing queries and maintenance 
+requests.
+ Live Data for Real-Time Decision-Making
+ All the above reports and insights can be made available 
+in real-time via our Facilio dashboard. This means that 
+Portman Dentex can access live data without having to 
+wait for periodic reports, enabling you to make timely, 
+informed decisions. The dashboard will be tailored to 
+your needs and will be updated continuously, providing 
+transparency and helping to optimise resource allocation 
+12
+and operational performance.
+ Examples of these are as follows:
+ By partnering with IEM, Portman Dentex will benefit from 
+a robust suite of management reports that give complete 
+visibility into your operations. Our real-time data tracking, 
+combined with proactive maintenance strategies, will 
+not only help reduce asset failure rates but also enable 
+you to make strategic decisions with confidence. These 
+non-financial benefits will ultimately improve operational 
+efficiency, reduce unnecessary costs, and enhance the 
+overall service quality.
+ Please refer to the example reports in the appendix, 
+sections 1.1 through 1.7.
+ Q14
+ COMMERCIAL MODEL
+ Q: Describe your preferred approach for pricing 
+maintenance services. If there is an alternative 
+model that you believe PortmanDentex should 
+consider, please put forward an alternative 
+pricing proposal in addition to the format 
+requested in Appendix 2 - Pricing Template
+ We recommend adopting the pricing model outlined 
+in the attached pricing template, as the most suitable 
+commercial model for maintenance services.
+ This model provides a clear, transparent, and structured 
+approach to pricing, ensuring consistency and ease of 
+understanding for both parties.
+ While we believe the attached model is the most 
+appropriate option, we are open to discussing alternative 
+approaches should PortmanDentex have additional 
+considerations or priorities that necessitate a bespoke 
+solution.
+ Q15 
+FINANCIAL BENEFITS
+ Q: Describe the financial benefits which you 
+believe you can deliver to PortmanDentex and 
+include a rationale for why you think you can 
+deliver these benefits. 
+Provide a glidepath of savings opportunities over a 5 
+year period and state your assumptions. What savings 
+opportunities and/or efficiencies do you envisage for 
+PortmanDentex? How will you help us realise them?
+ A: IEM can deliver significant financial benefits to 
+PortmanDentex by identifying, implementing, and 
+sustaining savings opportunities across procurement, 
+operations, and workforce efficiencies. 
+Streamlining the supply chain and focusing on preferred 
+suppliers will lead to beneficial rates and reduced 
+administrative overheads
+ Automation through the introduction of IEM’s CAFM 
+system will lower administrative costs and increase the 
+availability and accuracy of commercial reporting. This 
+will lead to knowledge based strategic decision making 
+directly impacting the potential for operational savings
+ The following categories can be utilised to enhance the 
+financial benefits to PortmanDentex:
+ Data-Driven Approach:
+ Regularly analyse procurement and operational data to 
+identify trends and opportunities.
+ Technology Implementation:
+ Deploy scalable digital solutions to drive automation and 
+efficiencies.
+ Continuous Improvement:
+ Establish a culture of continuous improvement across all 
+clinics with KPIs to track progress.
+ Change Management:
+ Engage stakeholders and provide training to ensure 
+smooth adoption of new practices.
+
+e patients and staff can thrive.
+ REFERENCES
+ Q: Please provide two customer references that 
+are relevant to services requested in this RFP 
+and that are currently being provided by your 
+company. 
+Please provide the name, job title, email address and phone 
+numbers of the referees as well as a full description of the 
+services that you are providing to these customers. Please 
+ensure that references provide an comparable level of service 
+to what PotmanDentex are looking for. 
+Anthony Hind
+ 07816 202692
+ antony.hind@ivcevidensia.com
+ David Stevens
+ 07490730355
+ david.stevens18@nhs.net
+ 11
+Q13
+ REPORTING / MANAGEMENT 
+INFORMATION
+ Q: What Management Information can you 
+provide to PortmanDentex? 
+Please provide examples of reports and management 
+information you provide to your existing clients. Include in 
+your answer considerations regarding monitoring of trends 
+such as repeated call outs to the same asset and preventative 
+actions to stop this to reoccurring. 
+What financial and helpdesk statistics would you recommend 
+we monitor and report on?
+ A: At IEM, we take great pride in offering comprehensive 
+management information to support Portman Dentex’s 
+operational goals, improve efficiency, and ensure 
+informed decision-making. We understand that timely, 
+actionable insights are key to driving performance, and we 
+are committed to providing you with the data you need 
+to optimise your operations, reduce costs, and improve 
+service delivery. Our system allows us to manage the 
+reporting with complete flexibility, where we can add/
+ remove particular reporting based on the user level and 
+what you would like to see.
+ Key Management Information Reports
+ 1. Operational Task Overview
+ We will provide a detailed breakdown of outstanding tasks 
+by site, area, building, or region, ensuring visibility into the 
+entire estate. This includes tracking tasks that are awaiting 
+IEM vetting, require additional information, or are split 
+by the stage of completion such as awaiting scheduling, 
+scheduled awaiting attendance, or complete. We will also 
+monitor tasks by discipline, ensuring the right teams are 
+allocated to the appropriate work.
+ Total in SLA / Out of SLA: Visual reporting such as pie 
+charts will provide clarity on the percentage of tasks 
+meeting Service Level Agreements (SLAs). This will allow 
+Portman Dentex to track the efficiency of reactive work, 
+quotes, and PPM.
+ 2. Quotes Tracking
+ A comprehensive overview of all outstanding quotes, 
+including those awaiting submission, review, or client 
+approval, will be provided. We can break down these 
+quotes per discipline, region etc, ensuring transparency 
+and enabling you to stay on top of pending quotes. 
+Additionally, tracking the average task acceptance time 
+and attendance and completion times will give you 
+real-time visibility into task performance and allow for 
+improvements where necessary.
+ First-Time Fix Rate: We can also track the first-time fix 
+percentage to assess how often we are able to resolve 
+issues on the first visit, reducing repeat visits and 
+improving operational efficiency.
+ 3. Preventative Maintenance (PPM) Overview
+ To help prevent recurring issues, we will provide a detailed 
+breakdown of outstanding PPMs, including the status of 
+tasks such as awaiting scheduling, scheduled awaiting 
+attendance, and tasks requiring another visit. By tracking 
+SLA compliance and categorising tasks by discipline, 
+we can ensure timely and effective maintenance. This 
+proactive approach will help reduce repeated call-outs to 
+the same assets, preventing failures and ensuring long
+term asset reliability.
+ Monitoring Trends and Preventing Recurring Issues 
+One of the most significant aspects of our management 
+information reporting is the ability to track trends 
+in repeated call-outs to the same assets. By closely 
+monitoring these trends, we can identify potential 
+underlying issues, whether they are due to poor 
+asset condition, incorrect installation, or insufficient 
+maintenance. Our proactive approach enables us to 
+implement preventative actions to address these issues 
+before they escalate, such as adjusting maintenance 
+schedules, recommending upgrades, or providing training 
+to ensure staff handle equipment correctly.
+ We also recommend monitoring warranty percentages 
+and recall rates for assets, which help ensure that assets 
+under warranty are operating as expected and that any 
+product recalls are managed efficiently.
+ Financial and Helpdesk Statistics
+ In addition to operational and PPM reporting, we can also 
+report on financial statistics to improve service delivery 
+and cost management:
+ Total Spend per Month: Split into quotes, reactive 
+maintenance, and PPM, providing insight into cost 
+distribution and opportunities for savings.
+ Accrued Costs: Split into completed and not yet 
+completed tasks to provide visibility into outstanding 
+f
+ inancial obligations.
+ Helpdesk Metrics: Track response times, resolution times, 
+and task acceptance rates to measure the efficiency of 
+the helpdesk in addressing queries and maintenance 
+requests.
+ Live Data for Real-Time Decision-Making
+ All the above reports and insights can be made available 
+in real-time via our Facilio dashboard. This means that 
+Portman Dentex can access live data without having to 
+wait for periodic reports, enabling you to make timely, 
+informed decisions. The dashboard will be tailored to 
+your needs and will be updated continuously, providing 
+transparency and helping to optimise resource allocation 
+12
+and operational performance.
+ Examples of these are as follows:
+ By partnering with IEM, Portman Dentex will benefit from 
+a robust suite of management reports that give complete 
+visibility into your operations. Our real-time data tracking, 
+combined with proactive maintenance strategies, will 
+not only help reduce asset failure rates but also enable 
+you to make strategic decisions with confidence. These 
+non-financial benefits will ultimately improve operational 
+efficiency, reduce unnecessary costs, and enhance the 
+overall service quality.
+ Please refer to the example reports in the appendix, 
+sections 1.1 through 1.7.
+ Q14
+ COMMERCIAL MODEL
+ Q: Describe your preferred approach for pricing 
+maintenance services. If there is an alternative 
+model that you believe PortmanDentex should 
+consider, please put forward an alternative 
+pricing proposal in addition to the format 
+requested in Appendix 2 - Pricing Template
+ We recommend adopting the pricing model outlined 
+in the attached pricing template, as the most suitable 
+commercial model for maintenance services.
+ This model provides a clear, transparent, and structured 
+approach to pricing, ensuring consistency and ease of 
+understanding for both parties.
+ While we believe the attached model is the most 
+appropriate option, we are open to discussing alternative 
+approaches should PortmanDentex have additional 
+considerations or priorities that necessitate a bespoke 
+solution.
+ Q15 
+FINANCIAL BENEFITS
+ Q: Describe the financial benefits which you 
+believe you can deliver to PortmanDentex and 
+include a rationale for why you think you can 
+deliver these benefits. 
+Provide a glidepath of savings opportunities over a 5 
+year period and state your assumptions. What savings 
+opportunities and/or efficiencies do you envisage for 
+PortmanDentex? How will you help us realise them?
+ A: IEM can deliver significant financial benefits to 
+PortmanDentex by identifying, implementing, and 
+sustaining savings opportunities across procurement, 
+operations, and workforce efficiencies. 
+Streamlining the supply chain and focusing on preferred 
+suppliers will lead to beneficial rates and reduced 
+administrative overheads
+ Automation through the introduction of IEM’s CAFM 
+system will lower administrative costs and increase the 
+availability and accuracy of commercial reporting. This 
+will lead to knowledge based strategic decision making 
+directly impacting the potential for operational savings
+ The following categories can be utilised to enhance the 
+f
+ inancial benefits to PortmanDentex:
+ Data-Driven Approach:
+ Regularly analyse procurement and operational data to 
+identify trends and opportunities.
+ Technology Implementation:
+ Deploy scalable digital solutions to drive automation and 
+efficiencies.
+ Continuous Improvement:
+ Establish a culture of continuous improvement across all 
+clinics with KPIs to track progress.
+ Change Management:
+ Engage stakeholders and provide training to ensure 
+smooth adoption of new practices
+ Q16 
+NON-FINANCIAL BENEFITS
+ Q: Describe the non-financial benefits which you 
+believe you can deliver to PortmanDentex, for 
+example:– Reduced asset failure– Better management information informing 
+strategic decision making – Improved customer communication 
+For each benefit include how it will be delivered, how it will be 
+funded and how it will enhance the PortmanDentex business. 
+A: We are committed to delivering non-financial benefits 
+that go beyond simply meeting service requirements. We 
+understand that our role is not just about maintaining 
+infrastructure but also about enhancing Portman Dentex’s 
+operations, improving employee and patient satisfaction, 
+and supporting long-term strategic goals.
+ Reduced Asset Failure
+ One of the key benefits we can bring is reduced 
+asset failure. We will implement a proactive Planned 
+Preventative Maintenance (PPM) schedule, tailored 
+to Portman Dentex’s estate and aligned with industry 
+standards like SFG20. By proactively managing assets, 
+13
+using real-time monitoring tools, and addressing issues 
+before they become problems, we will reduce the risk 
+of unexpected breakdowns. This will not only keep your 
+operations running smoothly but also create a more 
+reliable environment for your patients and staff.
+ Better Management Information Informing 
+Strategic Decision Making
+ In terms of decision-making, our approach focuses on 
+delivering better management information that informs 
+strategic choices. Using our Facilio system, we will provide 
+detailed, real-time management reports that highlight key 
+performance indicators and compliance status. With asset 
+condition surveys and comprehensive data-driven insights, 
+your team will be able to make informed decisions about 
+future investments and long-term planning. This will help 
+ensure resources are used effectively and that you can 
+plan for the future with confidence.
+ Improved Customer Communication
+ We understand that clear and transparent customer 
+communication is crucial. To support this, we have 
+our 24/7 dedicated helpdesk to hand, providing quick 
+responses to maintenance requests and customer 
+inquiries. Additionally, we will implement a feedback 
+loop, allowing your team and patients to share their 
+thoughts on our services, which will help us continuously 
+improve. By staying connected and ensuring open lines of 
+communication, we will build stronger relationships with 
+your stakeholders and enhance overall satisfaction.
+ We pride ourselves on being flexible in how we support 
+Portman Dentex. While we strongly recommend using our 
+CAFM system for its seamless integration and efficiency, 
+we understand that different needs arise. Therefore, we 
+are also happy to provide support via phone or email, 
+ensuring that your team can reach us in the way that is 
+most convenient for them. Of course, using the system 
+ensures the best efficiency and tracking, but we’re here to 
+adapt to your preferences.
+ Compliance and Risk Management
+ Ensuring that Portman Dentex operates in full compliance 
+with regulatory requirements is a top priority. We will 
+conduct regular audits and maintain a Golden Thread of 
+Information for all legal and statutory documentation. By 
+staying on top of these requirements, we can reduce legal 
+risks, provide peace of mind, and support Portman Dentex 
+in its role as a responsible, compliant healthcare provider. 
+This proactive approach will help mitigate potential issues 
+and allow you to focus on providing excellent care.
+ Training and Development
+ Training and upskilling are vital for long-term success, 
+which is why we will provide tailored training programs for 
+key staff at Portman Dentex. Whether it’s using our CAFM 
+system or understanding compliance protocols, we’ll 
+ensure your team feels confident and knowledgeable. 
+Additionally, we’ll provide refresher courses and regular 
+knowledge-sharing sessions to keep skills sharp. This 
+investment in your people will ensure everyone is fully 
+equipped to handle day-to-day needs and unexpected 
+challenges.
+ By partnering with IEM, you’ll gain more than just 
+reliable facilities management. You’ll benefit from a 
+comprehensive, proactive approach that adds value in 
+ways that truly matter to your business and the people it 
+serves. We’re here to help Portman Dentex thrive—both 
+operationally and in creating a positive environment for 
+your patients, staff, and stakeholders.
+ Q17 
+IMPROVEMENTS
+ Q: Having reviewed the information within 
+the RFP, what opportunities do you see for 
+PortmanDetnex to improve the delivery of 
+maintenance throughout it’s estate? Within 
+your answer, draw on your experience from your 
+clients who have a similar portfolio of properties 
+to PortmanDentex, what our competitors are 
+doing and what is best in class in the industry. 
+A: Building on our extensive experience with clients 
+managing similar property portfolios, we have identified 
+key opportunities to optimise maintenance operations 
+across the PortmanDentex estate. Our bespoke solutions 
+are designed to deliver measurable benefits, ensuring 
+operational excellence and long-term success.
+ Our Solutions
+ 1. Preventive Maintenance Programmes
+ Developing and implementing comprehensive preventive 
+maintenance schedules, aligned with detailed asset 
+registers, will enable PortmanDentex to proactively 
+address potential issues. This approach minimises 
+disruptions, avoids costly repairs, and ensures that 
+critical equipment and facilities are maintained in optimal 
+condition.
+ 2.Integration of Advanced Technologies
+ Leveraging advanced technologies, such as the Facilio 
+CAFM system, will transform maintenance operations by:
+ Streamlining work order management.
+ Centralising property-related information through 
+integrated systems.
+ Utilising built-in analytics to track trends, forecast 
+asset replacement needs, and align with energy 
+management strategies.
+ 14
+Q17.1 
+This integration allows for real-time oversight of 
+maintenance activities, enabling data-driven decisions 
+that enhance operational efficiency.
+ 3. Skilled Workforce and Continuous Training
+ Ensuring that maintenance teams are well-trained, 
+certified, and equipped with the latest industry knowledge 
+is essential. IEM works closely with SFG-20 on ongoing 
+training and development programmes will help maintain 
+high standards of service delivery while keeping staff up
+to-date with emerging technologies and best practices.
+ 4. Enhanced Asset Management
+ Implementing robust asset management systems will 
+facilitate effective monitoring of equipment conditions, 
+proactive planning for repairs or replacements, and the 
+maximisation of asset lifespans. This structured approach 
+ensures that maintenance priorities are met efficiently 
+and cost-effectively.
+ 5. Performance Metrics and Continuous 
+Improvement
+ Defining and measuring key performance indicators 
+(KPIs) will provide valuable insights into the effectiveness 
+of maintenance activities. Regular reviews, informed by 
+client and staff feedback, will drive a culture of continuous 
+improvement and operational excellence.
+ Proven Expertise
+ By implementing these solutions, PortmanDentex can 
+expect to achieve several significant benefits:
+ Reduced Disruptions: Proactive maintenance and real
+t
+ ime tracking will minimise unexpected breakdowns, 
+ensuring seamless operations.
+ Improved Efficiency: Streamlined processes and 
+advanced technologies will optimise resource 
+management and operational workflows.
+ Maximised Asset Lifespan: Effective asset 
+management ensures equipment and facilities 
+remain in peak condition, extending their operational 
+lifespan.
+ Continuous Improvement: Data-driven insights 
+and regular process reviews will foster ongoing 
+enhancements in service delivery and operational 
+performance.
+ By leveraging these best practices, PortmanDentex will 
+enhance maintenance delivery across its estate, improving 
+service quality and operational performance while 
+ensuring long-term sustainability.
+ R&M SPEND AS % OF TURNOVER 
+Q: In your experience, for a company such as 
+PortmanDentex, what is considered to be best 
+in class in terms of ongoing operating costs 
+as a percentage of revenue for Repairs and 
+Maintenance?
+ A: In industries such as dental practices and healthcare 
+services, determining what constitutes “best-in-class” 
+Repairs and Maintenance (R&M) costs as a percentage of 
+revenue depends on several factors, including the scale of 
+operations, the age and condition of the facilities, and the 
+level of equipment used.
+ For a company like PortmanDentex, which operates in the 
+dental sector and emphasises high-quality facilities and 
+equipment, a good benchmark would typically fall within 
+the range of 2% to 5% of revenue for R&M.
+ Q18 
+INNOVATION
+ Q: Describe the innovation you propose to bring 
+to PortmanDentex to drive improvements in 
+efficiency and effectiveness. Your answer should 
+include technology, tools, ways of working and 
+processes you intend to deploy. Please illustrate 
+providing examples of where you have delivered 
+innovation to your existing clients. 
+A: To meet these needs, we propose a comprehensive 
+innovation strategy that integrates cutting-edge 
+technology, robust tools, and efficient processes.
+ Deployment of the Facilio CAFM System
+ At the core of this strategy is the implementation of the 
+Facilio CAFM system, a powerful platform designed to:
+ Manage tasks and track progress seamlessly.
+ Provide real-time updates and activity tracking.
+ Facilitate clear and efficient communication.
+ This system will empower PortmanDentex with 
+transparent and efficient operations, ensuring better 
+decision-making and streamlined workflows.
+ Predictive Analytics and Preventive  
+Maintenance Protocols
+ We will implement predictive analytics alongside 
+preventive maintenance strategies to identify and resolve 
+potential issues before they disrupt operations. This 
+proactive approach will:
+ 15
+Q19 
+Ensure smoother day-to-day operations.
+ Deliver cost savings.
+ Extend the lifespan of critical assets.
+ Energy Reduction and Renewable Expertise
+ Through our collaboration with Carbon Dot, a specialist 
+in energy reduction and renewable strategies, we can 
+provide tailored solutions to drive energy efficiency. 
+Whether supporting PortmanDentex’s net-zero 
+commitments or managing ad hoc asset replacements for 
+improved efficiency, this partnership ensures sustainable 
+energy management aligned with operational goals.
+ Proven Expertise
+ Our commitment to innovation and efficiency is evidenced 
+by our successful partnerships:
+ Facilio CAFM Implementation: Proven to significantly 
+improve task management and communication for 
+clients, resulting in enhanced operational efficiency 
+and transparency.
+ Predictive Analytics and Preventive Maintenance: 
+Successfully deployed strategies have reduced 
+downtime, improved asset longevity, and delivered 
+measurable cost savings.
+ Outcomes
+ By adopting these solutions, PortmanDentex can expect 
+numerous benefits, including:
+ Enhanced Operational Efficiency: Achieved 
+through real-time task management, seamless 
+communication, and streamlined workflows.
+ Improved Asset Longevity: Predictive analytics and 
+preventive maintenance will reduce disruptions and 
+prolong asset lifespans.
+ Energy Savings: Tailored energy strategies and 
+renewable solutions delivered through Carbon Dot 
+will contribute to cost reductions and sustainability 
+goals.
+ Transparency and Informed Decision-Making: Regular 
+updates, detailed reports, and advanced analytics will 
+foster trust and drive better decisions.
+ Culture of Continuous Improvement: A collaborative 
+environment where innovative ideas are encouraged, 
+evaluated, and implemented.
+ MOBILISATION 
+Q: Describe your approach to mobilisation and 
+transition of the services. In your answer include 
+a project plan, your mobilisation methodology, 
+risks & timescales.
+ A: We understand that a smooth and seamless transition 
+is essential to avoid disruption and to ensure continuity 
+of services. Our mobilisation approach is thorough, 
+collaborative, and designed to make the process as 
+straightforward and efficient as possible for you and your 
+teams.
+ We pride ourselves on being personable, flexible, 
+and approachable. While we bring a tried-and-tested 
+methodology to the table, we adapt our approach to 
+suit the unique needs of your practices. Here’s how we 
+envision working with you:
+ Dedicated Mobilisation Team
+ We assign a dedicated mobilisation team, including your 
+Account manager, a Project Manager, Helpdesk Lead, and 
+Compliance Specialist. This team will oversee every aspect 
+of mobilisation, ensuring all key milestones are achieved 
+within the agreed timeframe.
+ Collaboration is Key
+ We value open and transparent communication. We’ll 
+work closely with your team, relying on your insights to 
+provide essential information such as PPM schedules, 
+relevant documentation, and details about any current 
+partners you’d like to continue working with (such as 
+possibly your specialist contractors). Together, we’ll create 
+a solid foundation for success.
+ Project Plan
+ We kick things off with a robust project plan tailored to 
+your needs. This will outline:
+ Clear timelines.
+ Key milestones.
+ Resource allocation.
+ Deliverables for both parties.
+ Regular progress reviews will keep everyone aligned 
+and ensure we meet our objectives.
+ Site Visits and Familiarisation
+ Our team (including your dedicated Helpdesk) will usually 
+visit your sites to meet Practice Managers, understand 
+operations, and identify any unique requirements. This 
+ensures we’re prepared to hit the ground running on day 
+one and gives everybody a good understanding of what is 
+16
+ important to you. 
+17
+ Client Manual Creation
+ We’ll create a bespoke “Client Manual” during 
+mobilisation. This living document will be our go-to 
+reference for operational procedures, contacts, and 
+service details. It evolves alongside your needs, ensuring it 
+always reflects the most up-to-date information.
+ Portal Training and Onboarding
+ Training is a top priority. We’ll make sure your team is 
+comfortable using the Facilio portal, scheduling sessions 
+at times that suit your Practice Managers and key 
+stakeholders. We keep the training engaging and practical, 
+ensuring everyone feels confident logging tasks and 
+accessing reports. We then follow this up with a portal 
+training video, to reference back to. 
+Set Go-Live or Staggered Transition
+ While we recommend a set go-live date to provide clarity 
+and consistency, we’re happy to stagger the transition 
+across sites if that works better for you. Either way, we’ll 
+ensure everyone feels supported throughout.
+ Post-Go-Live Support
+ We don’t just leave you to figure things out. For the first 
+few months post-go-live, our mobilisation team will be 
+on hand to provide extra support, answer questions, and 
+ensure any teething issues are resolved quickly.
+
+ PHASE ACTIVITY STAKEHOLDER MANAGEMENT DELIVERABLES TIMEFRAME
+ Initiation Establish mobilisation team and 
+assign roles.
+ Introduce key contacts to PortmanDentex 
+stakeholders; outline mobilisation 
+strategy and communication plan.
+ Mobilisation 
+structure, roles, and 
+communication plan.
+ Week 1
+ Kick-off Meeting Formal project launch to align 
+on objectives, SLAs, KPIs, and 
+timelines.
+ Host meeting with PortmanDentex teams 
+to share goals, address concerns, and 
+align on milestones.
+ Kick-off presentation, 
+documented SLAs/KPIs.
+ Week 2
+ Data Collection Gather asset registers, PPM 
+schedules, compliance 
+documents, and operational 
+insights.
+ Weekly meeting to review progress. Comprehensive data set 
+covering reactive and 
+compliance.
+ Weeks 2-4
+ Site 
+Familiarisation
+ Conduct site audits and 
+condition surveys. Engage 
+with Practice Managers for 
+operational insights.
+ Share findings with PortmanDentex 
+teams, highlighting key observations  
+and gaps.
+ Site audit reports, risk 
+register.
+ Weeks 3-5
+ Transition 
+Planning
+ Develop a bespoke Client 
+Manual and service transition 
+plan.
+ Ensure PortmanDentex teams have 
+access to the Client Manual drafts for 
+review and input.
+ Client Manual, transition 
+plan.
+ Weeks 4-6
+ Compliance 
+Review
+ Verify compliance with 
+statutory and industry 
+standards (e.g., SFG20).
+ Regular updates to PortmanDentex 
+compliance teams on progress and 
+identified gaps.
+ Compliance checklist, 
+gap analysis.
+ Weeks 4-6
+ System 
+Integration
+ Configure CAFM system 
+and integrate with existing 
+PortmanDentex systems, if 
+applicable.
+ Schedule training sessions for 
+PortmanDentex teams on the system’s 
+functionalities.
+ CAFM system 
+configuration, user 
+training materials.
+ Weeks 5-7
+ Training Conduct training sessions for 
+FM staff and PortmanDentex 
+stakeholders on processes and 
+systems.
+ Provide training schedules and feedback 
+opportunities for Practice Managers and 
+teams.
+ Training completion logs, 
+feedback forms.
+ Weeks 6-8
+ Go-Live 
+Preparation
+ Final checks and phased testing 
+of systems and processes.
+ Share readiness updates and Go
+Live checklist with PortmanDentex 
+stakeholders.
+ Go-Live readiness 
+report.
+ Weeks 7-9
+ Go-Live Transition to full-service 
+delivery, ensuring Help Desk 
+and support systems are 
+operational.
+ Maintain open communication channels 
+for real-time support; provide a 
+dedicated escalation contact.
+ Seamless service 
+transition.
+ Week 10
+ Post-Go-Live 
+Support
+ Conduct a 100-day review 
+to assess performance and 
+address any gaps.
+ Host review sessions with PortmanDentex 
+to evaluate service delivery and collect 
+feedback.
+ Post-Go-Live review 
+report, improvement 
+plan.
+ Weeks 11-14
+18
+ RISK DESCRIPTION MITIGATION STRATEGY
+ Incomplete Information Missing or inaccurate data such as PPM 
+schedules, asset details, or existing 
+contractor agreements.
+  Collaborate with the client’s team early to gather essential 
+documents and data.
+  Perform a gap analysis to identify missing information.
+ Operational Disruption Interruptions to daily operations during 
+mobilisation and transition.
+  Conduct detailed site visits to identify potential challenges and 
+operational needs upfront.
+  Develop a phased or flexible Go-Live plan to minimise disruption.
+  Maintain regular communication with site teams and key 
+stakeholders.
+ Compliance Gaps Non-compliance with statutory or 
+regulatory requirements pre-transition.
+  Perform a comprehensive pre-mobilisation compliance audit.
+  Work with the client’s team to address and prioritise compliance 
+gaps.
+  Create an ongoing compliance monitoring schedule.
+ Stakeholder Misalignment Lack of engagement or buy-in from client 
+stakeholders or site teams.
+  Schedule stakeholder briefings and workshops to align 
+expectations and goals.
+  Develop a stakeholder engagement plan tailored to various roles.
+  Appoint site-level champions to ensure local-level support and 
+communication.
+ Training Deficiencies Insufficient or inconsistent training for staff 
+on new systems, processes, or expectations.
+  Provide comprehensive and flexible training programs (online, 
+in-person, or hybrid).
+  Include refresher training and knowledge-sharing sessions post
+Go-Live.
+  Collect and act on feedback to continuously improve training 
+effectiveness.
+ Communication Breakdown Miscommunication between teams, 
+stakeholders, or contractors during 
+mobilisation.
+  Establish a centralised communication platform for updates and 
+collaboration.
+  Share regular progress updates and key milestones with all 
+stakeholders.
+  Assign a communication lead to manage and oversee messaging.
+ Cultural Resistance Resistance from staff to new processes, 
+policies, or service providers.
+  Engage teams early by explaining the benefits of the new 
+processes and services.
+  Provide ongoing support and open forums to address concerns.
+  Use change management techniques to ease transitions.
+ Site-Specific Challenges Unique or unforeseen challenges at 
+individual sites.
+  Conduct site-specific surveys and assessments early in the 
+mobilisation process.
+  Customise mobilisation plans to address individual site needs.
+  Monitor progress and escalate issues promptly for resolution.
+ We’re excited about the opportunity to work with PortmanDentex and bring our expertise to your practices. By working 
+together, we’ll ensure a mobilisation process that’s as effortless and effective as possible, leaving you free to focus on 
+what matters most: delivering excellent patient care.
+DUE DILIGENCE
+ Q: Please describe your approach to due diligence. 
+E.g. asset verification and condition surveys. In 
+your answer please include typical methodology 
+t
+ iming and duration of due diligence.
+ A: At IEM, we ensure a robust due diligence process by 
+leveraging technology, supply chain verification, and 
+rigorous quality control. Below is a detailed outline of our 
+approach:
+ 1. Supply Chain Competence Verification
+ We utilise SafeContractor to verify the competence of all 
+supply chain partners. This ensures that each contractor 
+meets our required standards for health, safety, and 
+operational performance.
+ 2. Automated Checks via Facilio System
+ Our CAFM system, Facilio, plays a critical role in due 
+diligence by automating key checks:
+ Work Order Verification: When a work order is 
+booked, Facilio performs automated checks to ensure 
+the task is appropriate and assigned to a qualified 
+engineer.
+ Geolocation Tracking: Facilio ensures that engineers 
+are on-site by verifying geolocation data during PPM 
+(Planned Preventative Maintenance) tasks.
+ Certification Control: Tasks cannot be closed without 
+the appropriate certification being uploaded. Facilio 
+enforces this by blocking task closure until all required 
+documentation is attached.
+ 3. Document Verification
+ Once documentation is uploaded, it undergoes a 
+thorough verification process:
+ Job Sheet Review: All reactive and completed works 
+are checked to confirm completion, identify follow-on 
+tasks, and ensure cost accuracy.
+ Compliance Certification Checks: Our compliance 
+team reviews certifications to ensure they meet 
+industry best practices and regulatory requirements.
+ 4. Remedial Works Management
+ All identified remedial works are captured in the system 
+and sent to the client for review. Partners are responsible 
+for progressing these works to costing within the agreed 
+SLAs (Service Level Agreements).
+ Field operatives conduct audits of a percentage of tasks 
+on-site to ensure supply chain quality. These audits are 
+recorded using the Facilio system, allowing for real-time 
+review and feedback.
+ 6. Continuous Improvement
+ Feedback from audits and compliance checks is used 
+to continuously improve our processes, ensuring that 
+we maintain high-quality standards and meet client 
+expectations.
+ This comprehensive due diligence approach ensures that 
+all tasks are completed to the highest standard, with full 
+transparency and accountability at every stage of the 
+process.
+ Q21 
+ASSET REGISTER
+ Q: Confirm your approach to creating a complete 
+Asset Register should be you successful in 
+this RFP. Explain how information would be 
+captured, over what timeline and whether there 
+are any additional costs involved in doing so. 
+A: We provide a robust and comprehensive approach 
+to asset management through our advanced CAFM 
+system. Our asset management module is designed to 
+capture and maintain critical information on asset history, 
+condition, maintenance, cost tracking, and lifecycle 
+management.
+ Using standardised asset capture templates, our 
+supply chain systematically records all necessary asset 
+information and supporting documentation. Each asset 
+is mapped to the relevant compliance activity, ensuring 
+a clear record of maintenance and compliance actions 
+carried out in accordance with SFG20 standards. This 
+process guarantees transparency and demonstrates 
+adherence to established compliance requirements.
+ Through detailed condition ratings, we develop lifecycle 
+plans and forecasts that enable our clients to make 
+informed decisions regarding asset replacement 
+strategies. Additionally, by uploading final data for each 
+asset, we provide insights into asset depreciation, helping 
+clients manage their portfolios with greater financial 
+foresight.
+ With IEM’s comprehensive asset management solutions, 
+our clients can rely on a seamless, data-driven approach 
+to maintaining their facilities efficiently and in compliance 
+with industry standards.
+ 19
+Q22 
+and continuous improvement, ensuring excellence across 
+all projects.
+ SUPPLY CHAIN
+ Q: 1) Describe your supplier selection process 
+for your supply chain– Describe how you ensure fair and transparent 
+treatment of your supply chain– Describe how you manage performance within 
+your supply chain– Describe how you deal with disputes within your 
+supply chain
+ A: Supplier Selection Process 
+IEM employs a meticulous supplier selection process to 
+ensure collaboration with high-quality contractors and 
+sub-contractors. We begin with a thorough assessment 
+of potential suppliers, evaluating capabilities, financial 
+stability, and track record. This is followed by rigorous 
+onboarding, including verification of credentials, 
+compliance with industry standards, and commitment to 
+continuous improvement.
+ Our extensive network of over 1500 contractors spans all 
+hard FM disciplines. This network is regularly monitored 
+by our supply chain manager, ensuring adherence to high 
+standards and reliable service delivery.
+ Outcomes:
+ Our process ensures seamless, high-quality services for 
+clients by engaging only compliant and capable suppliers. 
+This minimises risks and ensures timely, cost-effective 
+project delivery.
+ Ensuring Fair and Transparent Treatment
+ We prioritise fairness and transparency in managing our 
+supply chain to maintain trust and efficiency. We establish 
+clear terms and SLAs, conduct thorough onboarding 
+with probation periods, and perform regular reviews of 
+contractor performance. Feedback mechanisms and Safe 
+Contractor accreditation reinforce our commitment to 
+ethical and safe practices, complemented by National 
+Living Wage accreditation.
+ Outcomes:
+ This approach fosters collaboration, enhances service 
+delivery, and ensures equitable treatment of all supply 
+chain partners.
+ Performance Management
+ We oversee performance through KPIs, regular audits, 
+feedback, and ongoing contractor training. Evidence of 
+our success includes managing 400–450 weekly reactive 
+tasks for a year without claims, supported by robust 
+reporting and communication.
+ Outcomes:
+ Clients benefit from consistent quality, reliable services, 
+Dispute Resolution
+ Disputes are resolved via clear communication, 
+contractual clarity, mediation, and escalation protocols. 
+Lessons learned are integrated into processes for 
+continuous improvement.
+ Outcomes:
+ Prompt dispute resolution minimises disruptions, 
+preserves relationships, and ensures project success.
+ Q23 
+CLEANING AND WINDOW CLEANING
+ Q: Describe your capability with regard to 
+contract cleaning services and window cleaning. 
+Please note, that contract cleaning and window cleaning is 
+out of scope of this RFP but PortmanDentex would like to 
+obtain a brief description of your capability at this stage for 
+future opportunities. 
+A: At IEM, we do not currently offer window cleaning 
+services directly; however, this is an area we could readily 
+incorporate into our offerings if it became a requirement 
+for PortmanDentex in the future. We have access to 
+reliable partners with expertise in window cleaning, 
+ensuring any services provided would align with our high 
+standards of quality and professionalism.
+ Q24 
+CDM
+ Q: Describe your approach to ensuring CDM 
+compliance regulations including but not 
+limited to RAMS, contractor selection, training 
+and the share and transfer of information 
+(e.g. asbestos surveys and instruction of R&D 
+surveys). Include in your response how you will 
+aid us to meet and fulfil our client duties under 
+these regulations and your processes regarding 
+notifiable works. 
+Provision of Information to Duty Holders:– How do you ensure relevant pre-construction 
+information is provided to designers and 
+contractors? (such as asbestos surveys, site 
+plans)– What pre-construction information do you 
+provide routinely / what would you source on 
+demand?
+ 20
+safety-critical information is shared effectively. IEM ensure – What is your approach to arranging R&D surveys 
+where required? How are you proactive in this 
+approach when booking in works?– How do you ensure welfare facilities are provided 
+on-site? Is this asked and checked when booking 
+works?
+ Ensuring Competence:– How do you vet contractors to ensure they are 
+competent under CDM? (ensuring they have the 
+skills, knowledge, and experience to perform 
+their roles safely and competently)– What checks are performed beyond verifying 
+insurance and SSIP schemes?– How are these checks documented?
+ Quality Assurance and Oversight:– How do you ensure risks are identified and 
+managed throughout the project? (CPP, RAMS 
+etc) Where are these held?– Do you review the CPPs, RAMS for adequacy?– Do you carry out physical inspections of work 
+conducted by contractors (at the time they 
+works are being completed)? What proportion of 
+contractor works are physically checked?– How can we gain visibility of these inspections 
+and contractor ratings?
+ A: Under CDM regulations 2015, IEM’s approach 
+ensures the health, safety, and welfare of all personnel 
+working on site. We ensure all responsibilities are clearly 
+understood and that duties under the regulations are 
+met, particularly regarding risk assessment, contractor 
+selection, training, and the sharing of key safety 
+information. RAMS are comprehensive for all work 
+activities, ensuring that identified risks are evaluated 
+and mitigated. They are created in consultation with the 
+project team, contractors, and other stakeholders. They’re 
+reviewed and updated regularly to reflect changes on 
+site or in scope. Our RAMS process ensures that risks are 
+proactively managed, and safe working practices are in 
+place prior to commencement of work. Our contractor 
+selection process includes a thorough vetting procedure, 
+ensuring that all contractors are competent, qualified, 
+and able to demonstrate their commitment to health 
+and safety. We assess their previous project experience, 
+review their health and safety policies, and check their 
+insurance, certifications, and safety track record. Only 
+contractors who meet our strict CDM compliance criteria 
+are appointed. Personnel are continuously upskilled 
+and updated with relevant training, ensuring they are 
+competent to perform their roles safely. This may include 
+site-specific inductions, health and safety training (e.g., 
+asbestos awareness, working at height), and ongoing 
+toolbox talks. Clear communication is key to ensuring that 
+that all relevant surveys and risk assessments are shared 
+with contractors at the planning stage, and that these 
+documents are regularly reviewed. Information is stored 
+in a central database and made readily available to all 
+personnel, ensuring easy access and transparency.IEM will 
+work closely with the client to ensure that the Principal 
+Designer and Principal Contractor roles are supported and 
+that all safety and compliance measures are met. We will 
+assist in developing and reviewing the Health and Safety 
+File, ensuring that it contains all necessary documents and 
+that the project complies with notification requirements 
+to the Health and Safety Executive (HSE). For notifiable 
+works (Duration of the project exceeds 30 days for 20 
+people or more than 500 person days),IEM will ensure 
+the HSE is notified in accordance with guidelines. This 
+includes providing all necessary documentation prior to 
+the start of work, including risk assessments, method 
+statements, and details of the contractors. We’ll provide 
+regular updates on the progress of notifiable works, 
+ensuring that any changes or risks are communicated and 
+managed promptly. Our team is dedicated to ensuring 
+full compliance with CDM regulations through detailed 
+planning, thorough risk assessments, careful selection 
+of contractors, ongoing training, and communication. 
+By collaborating closely with you, we will ensure the 
+successful and safe delivery of the project, meeting all 
+regulatory requirements and ensuring the well-being of 
+everyone involved.
+ Q25 
+APPROVALS OF EXPENDITURE
+ Q: How does your system automate spend 
+approval that is required centrally by 
+PortmanDentex?
+ What best practice can you share with PortmanDentex 
+to ensure strong cost control balanced with being able to 
+complete work on site when in attendance without delay? 
+Within your response, provide examples of how this works 
+with your other clients of a comparable business operation 
+and what your recommendation would be in terms of value 
+of Work Orders that can be completed without further central 
+approval. Would this recommendation change depending on 
+the Priority level (i.e. higher threshold for a P1 and so on)?
+ A: At IEM we have a robust system that automates spend 
+approvals within our Facilio system, tailored to meet the 
+specific needs of our clients.
+ Facilio is designed to streamline the approval process 
+by setting predefined thresholds for different types of 
+work orders. These thresholds can be adjusted based on 
+different criteria such as different areas/regions, price and 
+the type of work order – This can be easily changed if your 
+21
+approval structure needed to be amended in the future 
+Q26 
+and we can have several different approval levels if this 
+is required, all managed within the system providing full 
+visibility to stakeholders.
+ For example, with our client IVC Vets, which operates 
+across 1400 sites, we have implemented a tiered approval 
+process. IVC requested a structure so that all quotes 
+are reviewed by their FM team in the first instance, if 
+the quotation is under £5000 this does not require a 
+further approval, if it is above £5000 once the FM team 
+have approved this, this would then go to the secondary 
+approver, in this case the Area Manager; ensuring that all 
+expenditures are monitored and controlled effectively.
+ With regards to reactive tasks, many of our clients have 
+agreed a £750 budget, allowing our Supply Chain Partners 
+to proceed without delay. With urgent tasks where these 
+may go over the budget, our Supply Chain Partners are 
+able to request an uplift onsite to avoid delay, in this 
+instance we could contact Portmen Dentex for approval, 
+or have a higher internal approval limit for specific tasks 
+that are more urgent, this ensures that urgent issues are 
+addressed promptly, while still maintaining oversight on 
+spending; we are very flexible and able to work to your 
+needs on this.
+ By implementing these automated spend approvals, 
+PortmanDentex can expect several benefits:
+ 1. **Enhanced Operational Efficiency**
+ Immediate response to high-priority issues without 
+waiting for manual approvals, reducing downtime and 
+potential disruptions.
+ 2. **Cost Control**
+ Centralised monitoring of expenditures, ensuring that all 
+spending is within budget and justified.
+ 3. **Transparency**
+ Clear documentation and tracking of all spend approvals, 
+providing an audit trail that supports accountability and 
+f
+ inancial oversight.
+ 4. **Flexibility**
+ The ability to adjust approval thresholds based on the 
+priority of the task, ensuring that urgent repairs are 
+prioritised while maintaining control over less critical 
+expenditures.
+ We are confident that this approach will provide 
+PortmanDentex with the control and flexibility needed to 
+maintain operational excellence.
+ ACCREDITATIONS AND CERTIFICATIONS
+ Q: What accreditations / certifications / SSIP  
+do you hold?
+ Please provide supporting evidence of such accreditations.
+ A: We recognise the importance of maintaining high 
+standards in our operations and ensuring the safety and 
+quality of our services. IEM proudly holds the following 
+accreditations and certifications:
+ ISO9001
+ Demonstrating our commitment to quality management 
+systems, ensuring that we consistently meet customer 
+and regulatory requirements.
+ ISO14001
+ Highlighting our dedication to environmental 
+management, reflecting our efforts to minimise our 
+environmental impact and promote sustainability.
+ ISO45001
+ This certification underscores our commitment to health 
+and safety management, ensuring a safe and healthy 
+workplace for our employees and stakeholders.
+ Safe Contractor SSIP
+ This accreditation verifies our compliance with health 
+and safety regulations, showcasing our dedication to 
+maintaining a safe working environment.
+ Principal Safety
+ This certification further emphasises our commitment 
+to safety, ensuring that we adhere to stringent safety 
+standards in all our operations.
+ National Living Wage Accredited
+ Reflecting our commitment to fair pay practices that 
+support employee well-being, enhance job satisfaction, 
+and foster a motivated workforce, ultimately driving 
+excellence in the services we provide.
+ In addition to these certifications, we are also members 
+of several esteemed trade associations, which further 
+validate our commitment to industry standards and 
+continuous improvement
+ IWFM
+ Our membership with the Institute of Workplace and 
+Facilities Management demonstrates our dedication to 
+excellence in facilities management.
+ IET
+ Being a member of the Institution of Engineering and 
+Technology highlights our commitment to engineering 
+excellence and innovation.
+ 22
+These accreditations and memberships are not just 
+badges of honour; they are integral to our operational 
+ethos. They ensure that we consistently deliver high
+quality services while prioritising safety, environmental 
+sustainability, and continuous improvement.
+ By holding these accreditations and memberships, we 
+assure our clients of our unwavering commitment to 
+quality, safety, and environmental responsibility. These 
+certifications provide confidence that our operations are 
+conducted to the highest standards, resulting in reliable 
+and superior service delivery. Our clients can trust that 
+we will meet their needs efficiently and effectively, always 
+adhering to best practices and regulatory requirements.
+ Please refer to copies of accreditations and certificates in 
+the appendix, sections 2.1 through 2.4w
+ What do the next 12 months look like for us?
+ Along with keeping all our current accreditations, we are 
+now starting our journey to becoming one of the very few 
+FM providers who are B Corp accredited.
+ Q27 
+WHY YOU?
+ Q: Why should PortmanDentex consider 
+you to be their FM partner? Please outline 
+why you believe you are best placed to meet 
+PortmanDentex’s objectives? Please let us know 
+any other information you think is pertinent at 
+this stage.
+ A: IEM is eager to embark on a collaborative journey 
+with Portman Dentex, which is centred around our 
+substantial experience is delivering across comparable 
+multi-site estates all in a similar condition, we have first 
+hand understand of what to watch for and where to 
+focus support and delivery through current experience, 
+this added to the ability to mobilise across the entire 
+estate with ease, all due to the current contract we have 
+with similar clients covering 1,200+ buildings of a similar 
+nature.
+ Our absolute commitment to transparency, accountability, 
+and innovation ensures that our partnership will be 
+characterised by open communication, mutual trust, and 
+a shared commitment to excellence, whilst we support 
+your journey.
+ By leveraging advanced technology like our “Facilio” 
+CAFM system and drawing upon our extensive experience 
+in managing complex frameworks and requirements, 
+including our successful collaborations with organisations 
+like NHS & IVC, we are very well-equipped to support 
+Portman Dentex in achieving your goals.
+ If you are after a cost effective, dedicated delivery team 
+who are experts in Building compliance across multi-site 
+estates, with the added bonus of being already set up to 
+support you with our operational partner network then 
+IEM Facilities Management is what you need.
+
+
+
+
     """
     question = user_input
     # Combine context and question
@@ -896,7 +2674,7 @@ efficiency of our partnership model.
     response = co.generate(
         model="c4ai-aya-expanse-32b",
         prompt=input_text,
-        max_tokens=100
+        max_tokens=1000
     )
     
     # Print the response
