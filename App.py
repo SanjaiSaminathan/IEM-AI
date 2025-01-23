@@ -2674,7 +2674,7 @@ IEM Facilities Management is what you need.
     response = co.generate(
         model="c4ai-aya-expanse-32b",
         prompt=input_text,
-        max_tokens=10000
+        max_tokens=5000
     )
     
     # Print the response
